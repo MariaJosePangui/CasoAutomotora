@@ -1,0 +1,7 @@
+Camry,1990,2000000,10,Azul,Toyota
+Tundra,2018,15000000,0,Rojo,Toyota
+Passport,2013,3500000,15,Verde,Honda
+Pilot,2020,4000000,3,Rosado,Honda
+Swift,2016,1930000,25,Azul,Suzuki
+Titan,2012,1460000,9,Verde,Nissan
+a,2011,1234567,4,Azul,Toyota
