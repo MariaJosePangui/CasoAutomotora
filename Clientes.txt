@@ -1,0 +1,4 @@
+Maria Jose ,Melinao 663,12345678,m.pangui01@gmail.com,20884018-5
+Erika ,Melinao 663,87654321,e.opazo@gmail.com,10617477-6
+Jose,Melinao 663,17652438,j.pangui@gmail.com,8632168-8
+Miriam,Gorbea 123,63764791,m.opazo@gmail.com,10783671-3
